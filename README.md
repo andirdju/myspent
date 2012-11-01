@@ -1,0 +1,4 @@
+myspent
+=======
+
+track spending
