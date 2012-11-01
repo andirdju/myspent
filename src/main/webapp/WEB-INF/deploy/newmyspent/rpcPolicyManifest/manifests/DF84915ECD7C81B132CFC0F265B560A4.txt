@@ -1,0 +1,2 @@
+serviceClass: org.andird.myspent.client.GreetingService
+path: 27C27DEC60821CB1018E5ABCE6220705.gwt.rpc
