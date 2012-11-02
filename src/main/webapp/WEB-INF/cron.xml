@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/myspent/cron/notifyDaily</url>
+    <description>Send Email</description>
+    <schedule>every day 13:00</schedule>
+    <timezone>Asia/Jakarta</timezone>
+  </cron>
+  <cron>
+    <url>/myspent/cron/notifyDaily</url>
+    <description>Send Email</description>
+    <schedule>every day 19:00</schedule>
+    <timezone>Asia/Jakarta</timezone>
+  </cron>
+</cronentries>
