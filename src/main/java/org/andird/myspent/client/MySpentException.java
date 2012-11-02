@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.appspot.myspent.client;
+package org.andird.myspent.client;
 
 import java.io.Serializable;
 

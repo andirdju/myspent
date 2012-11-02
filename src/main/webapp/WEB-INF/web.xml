@@ -6,11 +6,11 @@
   <!-- Servlets -->
   <servlet>
     <servlet-name>MySpentImpl</servlet-name>
-    <servlet-class>com.appspot.myspent.server.MySpentImpl</servlet-class>
+    <servlet-class>org.andird.myspent.server.MySpentImpl</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>MySpentCronNotifyDaily</servlet-name>
-    <servlet-class>com.appspot.myspent.cron.MySpentCronNotifyDaily</servlet-class>
+    <servlet-class>org.andird.myspent.cron.MySpentCronNotifyDaily</servlet-class>
   </servlet>
   
   <servlet-mapping>

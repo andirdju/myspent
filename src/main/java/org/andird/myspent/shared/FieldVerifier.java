@@ -1,4 +1,4 @@
-package com.appspot.myspent.shared;
+package org.andird.myspent.shared;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

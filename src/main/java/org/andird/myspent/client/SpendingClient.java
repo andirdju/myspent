@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.appspot.myspent.client;
+package org.andird.myspent.client;
 
 import java.io.Serializable;
 
@@ -31,10 +31,10 @@ public class SpendingClient extends JavaScriptObject implements Serializable {
 	}-*/;
 
 	public static final native void drawChart(String jsonStr) /*-{
-		if (@com.appspot.myspent.client.SpendingClient::isSupportsSVG()()) {
-			@com.appspot.myspent.client.SpendingClient::drawChartSvg(Ljava/lang/String;)(jsonStr);
+		if (@org.andird.myspent.client.SpendingClient::isSupportsSVG()()) {
+			@org.andird.myspent.client.SpendingClient::drawChartSvg(Ljava/lang/String;)(jsonStr);
 		} else {
-			@com.appspot.myspent.client.SpendingClient::drawChartImg(Ljava/lang/String;)(jsonStr);
+			@org.andird.myspent.client.SpendingClient::drawChartImg(Ljava/lang/String;)(jsonStr);
 		}
 	}-*/;
 

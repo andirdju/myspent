@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.appspot.myspent.server;
+package org.andird.myspent.server;
 
 import java.text.DateFormat;
 import java.util.Date;

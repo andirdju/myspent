@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.appspot.myspent.client;
+package org.andird.myspent.client;
 
 import com.google.gwt.user.client.rpc.RemoteService;
 import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;

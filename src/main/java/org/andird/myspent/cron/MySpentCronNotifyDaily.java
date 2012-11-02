@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.appspot.myspent.cron;
+package org.andird.myspent.cron;
 
 import java.io.IOException;
 import java.util.Properties;
