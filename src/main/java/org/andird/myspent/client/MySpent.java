@@ -299,7 +299,7 @@ public class MySpent implements EntryPoint {
         this.setupLogoutLink();
 
         // add file link
-        this.srcLink.setHref("https://github.com/andirdju/myspent");
+        this.srcLink.setHref("http://andirdju.github.com/myspent/");
 
         // setup anchor
         this.srcLink.setText("src");
