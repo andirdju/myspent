@@ -3,7 +3,7 @@
 #### Overview
 Fluent api, enable testing of controller as `controller`, not just a method, (think request mapping).
 
-See the full presentation [here](https://www.youtube.com/watch?v=K6x8LE7Qd1Q "Webinar: Testing Web Applications with Spring 3.2").
+See the full presentation from springsource [here](https://www.youtube.com/watch?v=K6x8LE7Qd1Q "Webinar: Testing Web Applications with Spring 3.2").
 
 #### Details
 ##### Unit Test (standalone) vs Integration Test
