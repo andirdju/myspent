@@ -14,7 +14,7 @@ In the spirit of unit-testing, I personally prefer to do standalone testing on t
 ##### DispatcherServlet runtime (so we can test request mapping)
 It will handle the creation of `DispatcherServlet` runtime for each test, so we can also test the mvc wiring, not just the inner workings of the methods.
 
-We won't call the controller methods directly or instantiate the controller object ourself. Instead we will create a mock request and pass it to the provided test infrastructure (MockMvc).
+We won't call the controller methods directly. Instead we will create a mock request and pass it to the provided test infrastructure (MockMvc).
 
 ##### MockMvc and other usefull mocks
 Classes in `org.springframework.test.web.servlet.*`
