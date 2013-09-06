@@ -1,6 +1,6 @@
 ### My Spent
 
 #### Overview
-Track your spending. https://myspent.andird.org/
+Track your spending. http://myspent.andird.org/
 
-Play around with basic gwt and google svg graphs
+Play around with gae, basic gwt and google svg graphs
