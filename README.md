@@ -3,4 +3,4 @@
 #### Overview
 Track your spending. https://myspent.andird.org/
 
-Play around with gwt and google svg graphs
+Play around with basic gwt and google svg graphs
