@@ -11,7 +11,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <sourceVersion>1.6</sourceVersion>
         <gaeVersion>1.7.3</gaeVersion>
-        <gwtVersion>2.4.0</gwtVersion>
+        <gwtVersion>2.9.0</gwtVersion>
     </properties>
 	<build>
 		<plugins>
@@ -79,7 +79,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
